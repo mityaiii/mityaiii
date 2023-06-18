@@ -54,13 +54,13 @@
 ---
 <!-- skills -->
 
-### Tools
+## Tools
 <img src="https://skillicons.dev/icons?i=git,docker,vscode,postman,linux,pr,github"/>
 
-### Technology
+## Technology
 <img src="https://skillicons.dev/icons?i=python,django,flask,cpp,js,react"/>
 
-### Database
+## Database
 <img src="https://skillicons.dev/icons?i=mongo,postgres,sqlite"/>
 
 ---
