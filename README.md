@@ -30,10 +30,10 @@
 ✉️ You can shoot me an email at <b>mityaiiiofficial@gmail.com</b>, I'll try to respond as soon as I can.
 </p>
 <div class="container container-items">
-  <a href="https://t.me/aliasmityai"><img class="icon telegram" src="./icons/telegram.svg" alt=""></a>
-  <a href="https://vk.com/aliasdfour"><img class="icon vk" src="./icons/vk.svg" alt=""></a>
-  <a href="https://spb.hh.ru/resume/5fba88e3ff0c13943c0039ed1f485778637342"><img class="icon hh" src="./icons/hh.svg" alt=""></a>
-  <a href="https://www.fl.ru/users/mityaiiiofficia/portfolio/"><img class="icon fl" src="./icons/fl.png" alt=""></a>
+  <a href="https://t.me/aliasmityai"><img style="width: 24px;" src="./icons/telegram.svg" alt=""></a>
+  <a href="https://vk.com/aliasdfour"><img class="width: 12px;" src="./icons/vk.svg" alt=""></a>
+  <a href="https://spb.hh.ru/resume/5fba88e3ff0c13943c0039ed1f485778637342"><img class="width: 24px;" src="./icons/hh.svg" alt=""></a>
+  <a href="https://www.fl.ru/users/mityaiiiofficia/portfolio/"><img class="width: 24px;" src="./icons/fl.png" alt=""></a>
 </div>
 <p>
 </section>
