@@ -64,3 +64,6 @@
 <img src="https://skillicons.dev/icons?i=mongo,postgres,sqlite"/>
 
 ---
+<br/>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/mityaiii?theme=dark)
