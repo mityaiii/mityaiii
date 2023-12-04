@@ -1,69 +1,43 @@
-<header>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="mario">
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1&pause=1000&color=6600ff&center=true&repeat=false&random=false&width=435&lines=mityaiii" alt="Typing SVG" /></a></p>
 
-  <h1>🖖Hey there! I'm Mityai</h1>
-</header>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1650&color=6600ff&center=true&random=false&width=435&lines=Well+done+is+better+than+well+said" alt="Typing SVG" /></p>
 
-<!-- About me -->
-<main>
-<!-- bio -->
-<section class="bio">
-<p>
-🎓A student at ITMO University.
-</p>
-<p>
-💡 I am actively developing in Backend development, studying courses and developing my own projects. I help in organizing and conducting Olympiads at FITiP department, as well as in conducting internships in the subject of Algorithms and Data Structures.
-</p>
-<p>
-💂 I speak English and Russian, study German
-</p>
-<p>
-👨‍💻 <b>Fullstack develop, Freelance</b>
-</p>
-<p>
-🌱 I'm going to develop towards web development. Improve my skills in react and django
-</p>
-<p>
-👨🏻‍💼 I write projects and diploms for hire and create websites. 
-</p>
-<p>
-✉️ You can shoot me an email at <b>mityaiiiofficial@gmail.com</b>, I'll try to respond as soon as I can.
+<p align="center">
+<img src="https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx&logoColor=6600ff"/> <!--nginx-->
+<img src="https://img.shields.io/badge/vscode-black?style=for-the-badge&logo=visual-studio-code&logoColor=6600ff"/> <!--TF-->
+<img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=6600ff"/> <!--Jupyter-->
+<img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=6600ff"/> <!--Linux-->
+<img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=6600ff"/> <!--Git-->
 </p>
 
-<div class="container container-items">
-  <a href="https://t.me/aliasmityai"><img width="32" height="32"src="./icons/telegram.svg" alt=""></a>
-  <a href="https://vk.com/aliasdfour"><img width="32" height="32" src="./icons/vk.svg" alt=""></a>
-  <a href="https://spb.hh.ru/resume/5fba88e3ff0c13943c0039ed1f485778637342"><img width="32" height="32" src="./icons/hh.svg" alt=""></a>
-  <a href="https://www.fl.ru/users/mityaiiiofficia/portfolio/"><img width="32" height="32" src="./icons/fl.png" alt=""></a>
-</div>
-<p>
+<br>
 
----
-</section>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1&pause=1000&color=AEAEAE&repeat=false&random=false&width=435&lines=full+stack+developer.+and+a+fast+learner" alt="Typing SVG" />
 
-<!-- github features  -->
-<section class="stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mityaiii&show_icons=tru&theme=tokyonight">
-  <div class="container container-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mityaiii&layout=compact&theme=tokyonight">
-    <img class="developer" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" alt="coffee enjoyer">
-  </div>
-</section>
-</main>
 
----
-<!-- skills -->
 
-## Tools
-<img src="https://skillicons.dev/icons?i=git,docker,vscode,postman,linux,pr,github"/>
+I'm the architect of my own digital realm, crafting it block by block as a frontend developer and software engineer. Each piece of code I write is a cornerstone, a foundation on which I build my knowledge. Currently, I'm donning my backend developer hat for the startup project "Rit," but my love for frontend development still takes center stage. Hackathons are my playground, and with my trusty team "Шампиньоны," we dive into the challenges headfirst. Meanwhile, I'm constantly leveling up my skills through courses, because in this ever-evolving tech landscape, there's always a new summit to conquer.
 
-## Technology
-<img src="https://skillicons.dev/icons?i=python,django,flask,cpp,js,react"/>
+<p align="center"><img src="https://media4.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=ecf05e47k7zis1wjgu26dykjin0wbot1nif3lcorpugd3d5s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=270 height=270></p>
 
-## Database
-<img src="https://skillicons.dev/icons?i=mongo,postgres,sqlite"/>
 
----
-<br/>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/mityaiii?theme=dark)
+<img src="./neon-stick.png">
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1&pause=1000&color=6600ff&repeat=false&random=false&width=285&lines=Languages+and+Tools" alt="Typing SVG" /></p>
+
+
+<p align="center">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=django" alt="python" width="30" height="30"/> &nbsp; <b>Django</b> 
+&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=dotnet" alt="opencv" width="30" height="30"/> &nbsp; <b>ASP.NET</b>
+&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=react" alt="tensorflow" width="30" height="30"/> &nbsp; <b>React</b>
+&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nextjs" alt="seaborn" width="30" height="30"/> &nbsp; <b>Next js</b>
+</br>
+&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" alt="scikit_learn" width="30" height="30"/> &nbsp; <b>Type Script</b>
+&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=redux" alt="pytorch" width="30" height="30"/> &nbsp; <b>Redux</b>
+&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" alt="scikit_learn" width="30" height="30"/> &nbsp; <b>Type Script</b>
+&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" alt="pytorch" width="30" height="30"/> &nbsp; <b>Tailwind</b>
+</p>
+
+<img src="./neon-stick.png">
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mityaiii&show_icons=true&theme=react&locale=en&layout=compact" alt="plugg1n" /></p>
