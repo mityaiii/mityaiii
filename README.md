@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=6600ff"/> <!--Jupyter-->
 <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=6600ff"/> <!--Linux-->
 <img src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=6600ff"/> <!--Git-->
+<img src="https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite&logoColor=6600ff"/> <!--Git-->
+<img src="https://img.shields.io/badge/webpack-black?style=for-the-badge&logo=webpack&logoColor=6600ff"/> <!--Git-->
 </p>
 
 <br>
@@ -16,7 +18,7 @@
 
 
 
-I'm the architect of my own digital realm, crafting it block by block as a frontend developer and software engineer. Each piece of code I write is a cornerstone, a foundation on which I build my knowledge. Currently, I'm donning my backend developer hat for the startup project "Rit" but my love for frontend development still takes center stage. Hackathons are my playground, and with my trusty team "Шампиньоны" we dive into the challenges headfirst. Meanwhile, I'm constantly leveling up my skills through courses, because in this ever-evolving tech landscape, there's always a new summit to conquer.
+I'm the architect of my own digital realm, crafting it block by block as a frontend developer and software engineer. Each piece of code I write is a cornerstone, a foundation on which I build my knowledge. Currently, I'm donning my backend developer hat for the startup project "Rit," but my love for frontend development still takes center stage. Hackathons are my playground, and with my trusty team "Шампиньоны," we dive into the challenges headfirst. Meanwhile, I'm constantly leveling up my skills through courses, because in this ever-evolving tech landscape, there's always a new summit to conquer.
 
 <p align="center"><img src="https://media4.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif?cid=ecf05e47k7zis1wjgu26dykjin0wbot1nif3lcorpugd3d5s&ep=v1_stickers_search&rid=giphy.gif&ct=s" width=270 height=270></p>
 
@@ -34,7 +36,6 @@ I'm the architect of my own digital realm, crafting it block by block as a front
 </br>
 &nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" alt="scikit_learn" width="30" height="30"/> &nbsp; <b>Type Script</b>
 &nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=redux" alt="pytorch" width="30" height="30"/> &nbsp; <b>Redux</b>
-&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts" alt="scikit_learn" width="30" height="30"/> &nbsp; <b>Type Script</b>
 &nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind" alt="pytorch" width="30" height="30"/> &nbsp; <b>Tailwind</b>
 </p>
 
